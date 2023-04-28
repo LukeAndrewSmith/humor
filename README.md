@@ -1,3 +1,6 @@
+# HuMoR: Investigation and improvement
+This is the fork of the official HuMoR repository that contains my attempt to improve and update the model that was made during my Master's Thesis at Disney Research|Studios. An attempt was made to speedup the method (as we found it prohibitively slow) by breaking the 'rollout' and parallelising the optimisation.
+
 # HuMoR: 3D Human Motion Model for Robust Pose Estimation (ICCV 2021)
 This is the official implementation for the ICCV 2021 paper. For more information, see the [project webpage](https://geometry.stanford.edu/projects/humor/).
 
